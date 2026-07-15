@@ -4,3 +4,4 @@ A new login feature has been added to the project.
 This update includes basic authentication improvements
 and prepares the application for future development.
 one line added to show update version.
+Version 1.1 has been added to indicate the latest update to the login page.
